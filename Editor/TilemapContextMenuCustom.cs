@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-namespace KoganeUnityLib
+namespace UniTilemapContextMenuCustom
 {
 	internal static class TilemapContextMenuCustom
 	{
